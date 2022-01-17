@@ -9,7 +9,7 @@ INSTRUCTIONS:
 To run the application:
 1. Click on BackendDevChallenge.exe
 2. Download the file
-3. Run the file
+3. Run the file - your computer might say it's dangerous but I promise it isn't
 
 To view my code (on GitHub): 
 Navigate to BackendDevChallenge > Form1.cs
