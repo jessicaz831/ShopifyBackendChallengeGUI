@@ -44,7 +44,7 @@ Full list button
 - lists all inventory items
 
 CSV button
-- exports inventory items into a CSV called inventory.txt
+- exports inventory items into a CSV called inventory.txt, which you might have to search your files for
 - button will not appear if no items in inventory
 
 Thank you for your time!
